@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'ParkingSpace.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'CarParking',
+        'NAME': 'CarParkingSpace',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
